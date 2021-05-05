@@ -1,8 +1,13 @@
 # Agent Repo 
 
-## Smartphone
-  1. Agregar a la interface las siguientes propiedas: adsfadf,adsf df,adf
+## Agents
 
-## examples/messaging
+agents/examples/messaging
 
-## examples/behaviours
+agents/examples/behaviours
+
+## CLIPS
+
+clips/market
+
+
