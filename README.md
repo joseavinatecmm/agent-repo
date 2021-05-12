@@ -9,7 +9,9 @@ agents/examples/behaviours
 ## CLIPS
 
 clips/persons
+
 clips/prodcust
+
 clips/market
 
 
