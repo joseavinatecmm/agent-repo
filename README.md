@@ -2,9 +2,17 @@
 
 ## Agents
 
-agents/examples/messaging
+agents/src/examples/messaging
 
-agents/examples/behaviours
+agents/src/examples/behaviours
+
+clips/persons
+
+clips/prodcust
+
+clips/market
+
+
 
 
 
